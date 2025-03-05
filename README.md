@@ -13,3 +13,5 @@ pip install urllib3
 pip install ipinfo
 
 pip install speedtest-cli
+
+pip install phonenumbers
