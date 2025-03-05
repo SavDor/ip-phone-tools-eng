@@ -1,0 +1,7 @@
+requests
+colorama
+urllib2_prior_auth==0.1.5
+urllib3
+ipinfo
+speedtest-cli
+phonenumbers
