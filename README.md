@@ -1,5 +1,5 @@
-Startlin for Termux and Linux
+StartlinEng for Termux and Linux
 
-Startwin for Windows
+StartwinEng for Windows
 
 pip install -r requir.txt
