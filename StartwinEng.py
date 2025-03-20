@@ -251,7 +251,7 @@ def Help():
     print(Fore.CYAN +'████████ ██████████ ███████████████████')
     print(Fore.CYAN +'████████ ██████████ ███████████████████')
     print(Fore.CYAN +'███████████████████████████████████████')
-    print(Fore.CYAN +"             English версия")
+    print(Fore.CYAN +"             English version")
     print(Fore.CYAN +"1) Your Ip Address")
     print(Fore.CYAN +"2) GeoIP (City,Region,Country,Location,Org,Timezone)")
     print(Fore.CYAN +"3) Speed Test")
