@@ -5,3 +5,4 @@ urllib3
 ipinfo
 speedtest-cli
 phonenumbers
+whois
