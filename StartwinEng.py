@@ -20,7 +20,7 @@ clear = lambda: os.system('cls')
 
 clear()
 
-access_token = 'a34f1aaf828eae'
+access_token = 'Swap your Token for yours through the https://ipinfo.io/dashboard/token'
 
 def Ip_For_Pc():
     clear()
@@ -286,3 +286,4 @@ while(True):
         Ip_For_Pc()
     else:
         print(Fore.RED +"No Command")
+
